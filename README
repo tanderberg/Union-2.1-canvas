@@ -1,0 +1,12 @@
+This is a simple visualization of the positions of 587 SNe Ia in the Union 2.1 survey,
+
+http://supernova.lbl.gov/Union/
+
+It uses the HTML5 canvas element and three.js,
+
+http://mrdoob.github.com/three.js/
+
+and should run in recent versions of Chrome, Firefox, Opera and Internet Explorer 
+(9 and up).
+
+It was born as a test of three.js and is now doing dual duty as a test of GitHub.
